@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
-In my webdevelopment intern with ProdigyInfotech, I have created a responsive landing page.
+# CodeClauseInternship_Landing-page
+In my webdevelopment intern with CodeClause, I have created a responsive landing page.
